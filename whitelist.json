@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-21T08:20:15.909Z",
+  "updatedAt": "2026-01-25T20:11:10.144Z",
   "entries": {
     "c1d44d1d-a691-41f7-a622-b0ba67307f79": {
       "name": "8el",
@@ -206,6 +206,11 @@
       "name": "iRapacious",
       "addedBy": "8elv2_35261 (1296972399685664818)",
       "addedAt": "2026-01-21T08:20:02.195Z"
+    },
+    "4166cb50-732e-4c98-b3e1-daa1ba310cf0": {
+      "name": "RoyaleMuffinTV",
+      "addedBy": "clark1101 (505127178195697674)",
+      "addedAt": "2026-01-25T20:11:10.143Z"
     }
   }
 }
