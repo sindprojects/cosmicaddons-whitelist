@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-25T20:11:10.144Z",
+  "updatedAt": "2026-01-26T06:25:46.977Z",
   "entries": {
     "c1d44d1d-a691-41f7-a622-b0ba67307f79": {
       "name": "8el",
@@ -211,6 +211,11 @@
       "name": "RoyaleMuffinTV",
       "addedBy": "clark1101 (505127178195697674)",
       "addedAt": "2026-01-25T20:11:10.143Z"
+    },
+    "a20f7864-ac66-4fb1-9c7e-2350faf99d26": {
+      "name": "zShaded",
+      "addedBy": "clark1101 (505127178195697674)",
+      "addedAt": "2026-01-26T06:25:46.977Z"
     }
   }
 }
